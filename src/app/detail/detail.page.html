@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>{{detail.title}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card>
+    <ion-card-content>
+      <p>CreatedAt: {{ formatDate(detail.createdAt)}}</p>
+      <p>Content: {{ detail.content }}</p>
+    </ion-card-content>
+  </ion-card>
+</ion-content>
