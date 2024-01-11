@@ -130,24 +130,24 @@
         "hash": "17195997832060172707"
       },
       {
-        "file": "src/app/explore-container/explore-container.component.html",
-        "hash": "10574455846506954855"
+        "file": "src/app/detail/detail-routing.module.ts",
+        "hash": "14390733897511632404"
       },
       {
-        "file": "src/app/explore-container/explore-container.component.scss",
-        "hash": "14250411118003398491"
+        "file": "src/app/detail/detail.module.ts",
+        "hash": "3899636629184215445"
       },
       {
-        "file": "src/app/explore-container/explore-container.component.spec.ts",
-        "hash": "5993597563574967271"
+        "file": "src/app/detail/detail.page.html",
+        "hash": "1259534191127697120"
       },
       {
-        "file": "src/app/explore-container/explore-container.component.ts",
-        "hash": "5919589360752874304"
+        "file": "src/app/detail/detail.page.scss",
+        "hash": "3244421341483603138"
       },
       {
-        "file": "src/app/explore-container/explore-container.module.ts",
-        "hash": "7418061059857182964"
+        "file": "src/app/detail/detail.page.ts",
+        "hash": "17489884339100242654"
       },
       {
         "file": "src/app/tab1/tab1-routing.module.ts",
@@ -155,51 +155,43 @@
       },
       {
         "file": "src/app/tab1/tab1.module.ts",
-        "hash": "15566281578784902545"
+        "hash": "6037673116139020626"
       },
       {
         "file": "src/app/tab1/tab1.page.html",
-        "hash": "13207509910740934786"
+        "hash": "15277612510820920851"
       },
       {
         "file": "src/app/tab1/tab1.page.scss",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": "src/app/tab1/tab1.page.spec.ts",
-        "hash": "9476109993445867871"
+        "hash": "14256486796361940631"
       },
       {
         "file": "src/app/tab1/tab1.page.ts",
-        "hash": "9117558980506864833"
+        "hash": "15919659409661333948"
       },
       {
         "file": "src/app/tab2/tab2-routing.module.ts",
-        "hash": "7350080520046749647"
+        "hash": "11917906561005584192"
       },
       {
         "file": "src/app/tab2/tab2.module.ts",
-        "hash": "15372332323707330095"
+        "hash": "2317452896683318700"
       },
       {
         "file": "src/app/tab2/tab2.page.html",
-        "hash": "13340392613393970086"
+        "hash": "12746542296179860020"
       },
       {
         "file": "src/app/tab2/tab2.page.scss",
         "hash": "3244421341483603138"
       },
       {
-        "file": "src/app/tab2/tab2.page.spec.ts",
-        "hash": "8406418330988075840"
-      },
-      {
         "file": "src/app/tab2/tab2.page.ts",
-        "hash": "1649071404575094014"
+        "hash": "11717382125459432398"
       },
       {
         "file": "src/app/tabs/tabs-routing.module.ts",
-        "hash": "4285170623310447600"
+        "hash": "8720510492990202473"
       },
       {
         "file": "src/app/tabs/tabs.module.ts",
@@ -207,7 +199,7 @@
       },
       {
         "file": "src/app/tabs/tabs.page.html",
-        "hash": "10354490750562014135"
+        "hash": "6836540692958825403"
       },
       {
         "file": "src/app/tabs/tabs.page.scss",
@@ -224,6 +216,10 @@
       {
         "file": "src/assets/icon/favicon.png",
         "hash": "17482944836898362639"
+      },
+      {
+        "file": "src/assets/img/picture.jpg",
+        "hash": "7230822036012334268"
       },
       {
         "file": "src/assets/shapes.svg",
@@ -247,7 +243,7 @@
       },
       {
         "file": "src/main.ts",
-        "hash": "3447864527603543144"
+        "hash": "15428739892100253586"
       },
       {
         "file": "src/polyfills.ts",
@@ -259,7 +255,7 @@
       },
       {
         "file": "src/theme/variables.scss",
-        "hash": "10683809365950317113"
+        "hash": "1401588435906922895"
       },
       {
         "file": "src/zone-flags.ts",
