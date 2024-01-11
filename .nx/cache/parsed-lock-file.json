@@ -1296,6 +1296,15 @@
         "hash": "sha512-6ZXVdnNmaYILasC/RjQw+yfTmq2ZO7Q3v5lFcDVfq3PFGnybyYQh+RstBrYri+376OmXOXxBD7E6UxBhrMzXGA=="
       }
     },
+    "npm:@capacitor/camera": {
+      "type": "npm",
+      "name": "npm:@capacitor/camera",
+      "data": {
+        "version": "5.0.8",
+        "packageName": "@capacitor/camera",
+        "hash": "sha512-V9kuBJV4s2AEFMiUiB5vpPD1qdfKRq/iFQ9euntuUYP+bOHQwGnwuERsQd48PoLUPV1up/08J8tJwGxMkDvPTQ=="
+      }
+    },
     "npm:@capacitor/cli": {
       "type": "npm",
       "name": "npm:@capacitor/cli",
@@ -1467,6 +1476,15 @@
         "hash": "sha512-xJhCOUGPHw0QYDA3YH+CmL6qiV9DH4Ij3yPxSenymjrtLuXI197u9ddCZwGEwgVIkh9kGZBBKzsNkn89SZ2gdQ=="
       }
     },
+    "npm:@capacitor/filesystem": {
+      "type": "npm",
+      "name": "npm:@capacitor/filesystem",
+      "data": {
+        "version": "5.2.0",
+        "packageName": "@capacitor/filesystem",
+        "hash": "sha512-fyv+yWVFfglobPPveIRm4+ryMGI8vW27vjX63HDwB7K5fscSYajid+ie3qfwl2wkbPhlX8KTPes7IPij0lCmQg=="
+      }
+    },
     "npm:@capacitor/haptics": {
       "type": "npm",
       "name": "npm:@capacitor/haptics",
@@ -1483,6 +1501,15 @@
         "version": "5.0.7",
         "packageName": "@capacitor/keyboard",
         "hash": "sha512-+6lW8z2nXTM2NOG7D7pOasCfIGicz26+EeDRXIj5AtJibbjwtE1Q5GIY+qGHgzpmwOF0qmcrGJBz4zagDwUapg=="
+      }
+    },
+    "npm:@capacitor/preferences": {
+      "type": "npm",
+      "name": "npm:@capacitor/preferences",
+      "data": {
+        "version": "5.0.6",
+        "packageName": "@capacitor/preferences",
+        "hash": "sha512-aDe4wGTVSAIue6XXdUFgyz7SGszxK/Ptt/iWTydMpzc1PlZXw1XTTnciM+S+SLLNZFzXlkpXT3wMnh9t0DojUA=="
       }
     },
     "npm:@capacitor/status-bar": {
@@ -2176,6 +2203,15 @@
         "version": "7.6.4",
         "packageName": "@ionic/core",
         "hash": "sha512-9BGksEmvA/upb5Oup+joOam7y4pSBGCxYekWnTx8PiYur04ZYjGSZ0Vz3dQRyqj7rF+MwUV9iUGd3qz/bslkSw=="
+      }
+    },
+    "npm:@ionic/pwa-elements": {
+      "type": "npm",
+      "name": "npm:@ionic/pwa-elements",
+      "data": {
+        "version": "3.2.2",
+        "packageName": "@ionic/pwa-elements",
+        "hash": "sha512-gCQsHdvkaWa83T3ToKsr6FOtzSmLIYFWy+zZisXVDqU3ry4Hv581dFSxDUgokgoWSxIERe/nvYnhoN8zIIEKQQ=="
       }
     },
     "npm:@ionic/utils-array": {
@@ -13353,6 +13389,11 @@
       "type": "static"
     },
     {
+      "source": "npm:@capacitor/camera",
+      "target": "npm:@capacitor/core",
+      "type": "static"
+    },
+    {
       "source": "npm:@capacitor/cli",
       "target": "npm:@ionic/cli-framework-output",
       "type": "static"
@@ -13473,12 +13514,22 @@
       "type": "static"
     },
     {
+      "source": "npm:@capacitor/filesystem",
+      "target": "npm:@capacitor/core",
+      "type": "static"
+    },
+    {
       "source": "npm:@capacitor/haptics",
       "target": "npm:@capacitor/core",
       "type": "static"
     },
     {
       "source": "npm:@capacitor/keyboard",
+      "target": "npm:@capacitor/core",
+      "type": "static"
+    },
+    {
+      "source": "npm:@capacitor/preferences",
       "target": "npm:@capacitor/core",
       "type": "static"
     },

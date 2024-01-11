@@ -11,11 +11,15 @@
     "@angular/platform-browser-dynamic": "^17.0.2",
     "@angular/router": "^17.0.2",
     "@capacitor/app": "5.0.6",
+    "@capacitor/camera": "^5.0.8",
     "@capacitor/core": "5.6.0",
+    "@capacitor/filesystem": "^5.2.0",
     "@capacitor/haptics": "5.0.6",
     "@capacitor/keyboard": "5.0.7",
+    "@capacitor/preferences": "^5.0.6",
     "@capacitor/status-bar": "5.0.6",
     "@ionic/angular": "^7.0.0",
+    "@ionic/pwa-elements": "^3.2.2",
     "ionicons": "^7.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
@@ -95,11 +99,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "16027424706351345584"
+        "hash": "15808493696806042727"
       },
       {
         "file": "package.json",
-        "hash": "2543638342686500824"
+        "hash": "17026173056132021230"
       },
       {
         "file": "src/app/app-routing.module.ts",
@@ -194,32 +198,8 @@
         "hash": "1649071404575094014"
       },
       {
-        "file": "src/app/tab3/tab3-routing.module.ts",
-        "hash": "9012527419557272185"
-      },
-      {
-        "file": "src/app/tab3/tab3.module.ts",
-        "hash": "10502422086192062511"
-      },
-      {
-        "file": "src/app/tab3/tab3.page.html",
-        "hash": "1640442279298071434"
-      },
-      {
-        "file": "src/app/tab3/tab3.page.scss",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": "src/app/tab3/tab3.page.spec.ts",
-        "hash": "9818200618826629289"
-      },
-      {
-        "file": "src/app/tab3/tab3.page.ts",
-        "hash": "9950996585213729156"
-      },
-      {
         "file": "src/app/tabs/tabs-routing.module.ts",
-        "hash": "7044889794849427242"
+        "hash": "4285170623310447600"
       },
       {
         "file": "src/app/tabs/tabs.module.ts",
